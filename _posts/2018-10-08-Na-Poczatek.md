@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 No dobra zaczynamy. Plan na najbliższe kilka dni i wpisów jest prosty
 1. o tym jak w końcu wystartowałem na github pages
 2. o problemach z gitem i jak się z nimi skończyło
